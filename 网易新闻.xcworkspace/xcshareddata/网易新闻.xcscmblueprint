@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CDA14FDFDBCDE5EEEE889994F107F5613F5B007B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "41D66C059C0C02F7C50C0CC40B1679879465F859" : 0,
+    "CDA14FDFDBCDE5EEEE889994F107F5613F5B007B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "30EB6879-53C7-43D3-BC42-81B6ABCD5AE5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "41D66C059C0C02F7C50C0CC40B1679879465F859" : "%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB\/",
+    "CDA14FDFDBCDE5EEEE889994F107F5613F5B007B" : "News\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "网易新闻",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "网易新闻.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:NCHUHuangzhonghe\/News",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "41D66C059C0C02F7C50C0CC40B1679879465F859"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NCHUHuangzhonghe\/News.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CDA14FDFDBCDE5EEEE889994F107F5613F5B007B"
+    }
+  ]
+}
